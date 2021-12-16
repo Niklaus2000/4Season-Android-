@@ -4,20 +4,69 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/drawable/button_background.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/drawable/ic_baseline_flight_24.xml" value="0.22870370370370371" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/drawable/ic_baseline_wb_sunny_24.xml" value="0.23148148148148148" />
         <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/drawable/ic_outline_exit_to_app_24.xml" value="0.23148148148148148" />
         <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/drawable/ic_right.xml" value="0.1" />
         <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/drawable/icon_background.xml" value="0.2703125" />
         <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/drawable/icon_outer_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/drawable/indicator_active_background.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/drawable/indicator_inactive_background.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/drawable/vie_backgr.xml" value="0.22870370370370371" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/drawable/vie_bg.xml" value="0.23148148148148148" />
         <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/drawable/view_pager_background.xml" value="0.19907407407407407" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/drawable/viewpager_background.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/activity_logi_and_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/activity_login_and_register.xml" value="0.264" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/activity_loginandregister.xml" value="0.176" />
         <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/activity_main.xml" value="0.10400000000000001" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/activity_register_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/actvity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/app_bar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/content_main.xml" value="0.8800000000000001" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/fragment_blank.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/fragment_camera.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/fragment_exit.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/fragment_fly_ticket.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/fragment_hotel.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/fragment_login2.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/fragment_memories.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/fragment_register.xml" value="0.2" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/fragment_sign_up.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/fragment_sign_up2.xml" value="0.2625" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/fragment_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/fragment_sihn_up.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/fragment_sugn_u_p.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/fragment_tax.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/fragment_weather.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/login_tab_fragment.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/main_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/nav_header.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/onboarding_item_container.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/layout/register_tab_fragment.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/menu/drawer_menu.xml" value="0.264" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/menu/nav_menu.xml" value="0.152" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/menu/nav_mnu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/menu/navigation_menu.xml" value="0.4" />
+        <entry key="..\:/Users/Nika/AndroidStudioProjects/4Season/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14270833333333333" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.23055555555555557" />
+      </ProjectState>
+    </option>
   </component>
 </project>
