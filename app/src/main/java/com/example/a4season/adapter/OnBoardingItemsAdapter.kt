@@ -1,4 +1,4 @@
-package com.example.a4season
+package com.example.a4season.adapter
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,6 +6,8 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.a4season.OnBoardingItem
+import com.example.a4season.R
 
 class OnBoardingItemsAdapter (private val onBoardingItems: List<OnBoardingItem>):
 RecyclerView.Adapter<OnBoardingItemsAdapter.OnBoardingItemViewHolder>() {

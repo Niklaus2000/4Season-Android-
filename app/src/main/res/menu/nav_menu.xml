@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+    <item
+        android:id="@+id/camera"
+        android:title="@string/camera"
+        android:icon="@drawable/ic_baseline_photo_camera_24"
+        />
+    <item
+        android:id="@+id/weather"
+        android:title="@string/weather"
+        android:icon="@drawable/ic_baseline_wb_sunny_24"
+        />
+    <item
+        android:id="@+id/flyticket"
+        android:title="@string/flyticket"
+        android:icon="@drawable/ic_baseline_flight_24"
+        />
+    <item
+        android:id="@+id/hotel"
+        android:title="@string/hotel"
+        android:icon="@drawable/ic_baseline_hotel_24"
+        />
+    <item
+        android:id="@+id/memories"
+        android:title="@string/memories"
+        android:icon="@drawable/ic_baseline_memory_24"
+        />
+    <item
+        android:id="@+id/tax"
+        android:title="@string/tax"
+        android:icon="@drawable/ic_baseline_local_taxi_24"
+        />
+    <item
+        android:id="@+id/signout"
+        android:title="@string/sign_out"
+        android:icon="@drawable/ic_outline_exit_to_app_24"
+        />
+
+</menu>
