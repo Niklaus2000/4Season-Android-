@@ -78,6 +78,7 @@ class MainActivity : AppCompatActivity() {
     }
     private fun setUpIndicators() {
         indicatorsContainer = findViewById(R.id.indicatorsContainer)
+
         val indicators = arrayOfNulls<ImageView>(onBoardingItemsAdapter.itemCount)
         val layoutParams: LinearLayout.LayoutParams =
             LinearLayout.LayoutParams(WRAP_CONTENT,WRAP_CONTENT)

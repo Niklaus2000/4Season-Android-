@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571570980461",
+    "project_id": "season-84d3d",
+    "storage_bucket": "season-84d3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571570980461:android:8bb91f91f67940dfb42164",
+        "android_client_info": {
+          "package_name": "com.example.a4season"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571570980461-aue9u28155g4uai5ejrlrmpb57gnig1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg_FVY7lV4iAiBnnSkc6-Wj8rGTKuAxc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571570980461-aue9u28155g4uai5ejrlrmpb57gnig1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

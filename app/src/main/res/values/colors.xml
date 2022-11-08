@@ -15,4 +15,11 @@
     <color name="custom_color_text_primary">#FAF5EF</color>
     <color name="custom_color_text_secondary">#708090</color>
 
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBlue">#010D38</color>
+    <color name="colorOffWhite">#B8BCCA</color>
+    <color name="colorLightBlue">#333D5F</color>
+
 </resources>

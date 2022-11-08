@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">4Season</string>
-    <string name="get_started">Get Started</string>
+    <string name="get_started" translatable="false">Get Started</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="close" />
@@ -11,7 +11,6 @@
     <string name="tax">Tax</string>
     <string name="memories">Memories</string>
     <string name="hotel">Hotel</string>
-    <string name="camera">Camera</string>
     <string name="todo">TODO</string>
     <string name="mobile_number">Mobile Number</string>
     <string name="email">Email</string>
@@ -20,4 +19,21 @@
     <string name="login">Login</string>
     <string name="confirm_password">Confirm Password</string>
     <string name="signup">SIGNUP</string>
+    <string name="homepage">Home Page</string>
+    <string name="cammerapage">Camera</string>
+    <string name="spring">Spring</string>
+    <string name="summer">Summer</string>
+    <string name="autmun">Autmun</string>
+    <string name="winter">Winter</string>
+    <string name="wallet">Wallet</string>
+    <string name="camera">camera</string>
+    <string name="tuesday_15">Tuesday, 15</string>
+    <string name="week_day">Week Day</string>
+    <string name="city_name">City Name</string>
+    <string name="_19">+19°</string>
+    <string name="_12">12°</string>
+    <string name="takephote">TakePhote</string>
+
+
+
 </resources>

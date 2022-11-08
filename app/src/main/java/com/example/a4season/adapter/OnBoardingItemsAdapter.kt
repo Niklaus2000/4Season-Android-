@@ -9,14 +9,10 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.a4season.OnBoardingItem
 import com.example.a4season.R
 
-class OnBoardingItemsAdapter (private val onBoardingItems: List<OnBoardingItem>):
-RecyclerView.Adapter<OnBoardingItemsAdapter.OnBoardingItemViewHolder>() {
+class OnBoardingItemsAdapter (private val onBoardingItems: List<OnBoardingItem>): RecyclerView.Adapter<OnBoardingItemsAdapter.OnBoardingItemViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): OnBoardingItemViewHolder {
-        return OnBoardingItemViewHolder(
-            LayoutInflater.from(parent.context).inflate(
-                R.layout.onboarding_item_container,
-                parent,
+        return OnBoardingItemViewHolder(LayoutInflater.from(parent.context).inflate(R.layout.onboarding_item_container, parent,
                 false
             )
         )
@@ -41,12 +37,5 @@ RecyclerView.Adapter<OnBoardingItemsAdapter.OnBoardingItemViewHolder>() {
             textTitle.text = onBoardingItem.title
             textDescription.text = onBoardingItem.description
         }
-
-
-
-
-
-
-
     }
 }

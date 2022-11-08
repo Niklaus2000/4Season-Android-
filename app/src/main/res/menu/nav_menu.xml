@@ -2,6 +2,9 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn = "navigation_view">
+
+
+    <group android:checkableBehavior="single">
     <item
         android:id="@+id/camera"
         android:title="@string/camera"
@@ -33,9 +36,15 @@
         android:icon="@drawable/ic_baseline_local_taxi_24"
         />
     <item
+        android:id="@+id/wallet"
+        android:title="@string/wallet"
+        android:icon="@drawable/ic_baseline_account_balance_wallet_24"
+        />
+    <item
         android:id="@+id/signout"
         android:title="@string/sign_out"
         android:icon="@drawable/ic_outline_exit_to_app_24"
         />
+    </group>
 
 </menu>

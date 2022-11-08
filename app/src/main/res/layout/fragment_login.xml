@@ -18,10 +18,13 @@
         app:layout_constraintVertical_bias=".3"
         app:layout_constraintHorizontal_bias=".5"
         android:hint="@string/email"
+        android:background="@drawable/custopm_input"
+        android:drawableStart="@drawable/custopm_email_icon"
         android:paddingStart="20dp"
         android:paddingTop="15dp"
         android:paddingBottom="15dp"
-        />
+        android:drawablePadding="12dp"
+        tools:ignore="RtlSymmetry" />
     <EditText
         android:id="@+id/password"
         android:layout_width="0dp"
@@ -34,8 +37,12 @@
         app:layout_constraintVertical_bias="0"
         app:layout_constraintHorizontal_bias=".5"
         android:hint="@string/password"
+        android:drawablePadding="12dp"
+        android:drawableStart="@drawable/custom_lock_icon"
         android:paddingStart="20dp"
         android:paddingTop="15dp"
+        android:paddingEnd="20dp"
+        android:background="@drawable/custopm_input"
         android:paddingBottom="15dp"
         android:layout_marginTop="20dp"
         />
